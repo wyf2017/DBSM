@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ﻿# Pytorch implementation of the several Deep Binocolur Stereo Matching(DBSM) Network
 citation{
 
