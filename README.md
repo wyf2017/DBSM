@@ -72,7 +72,4 @@ Reference to [demos/submission_all.sh](demos/submission_all.sh) and [demos/submi
 wangyf_1991@163.com
 
 Any discussions or concerns are welcomed!
-=======
-# DBSM
-Deep Binocular Stereo Matching(DBSM)
->>>>>>> ced4619a84de3f8b904a4cbd0e93aa3ad1aedb0e
+
